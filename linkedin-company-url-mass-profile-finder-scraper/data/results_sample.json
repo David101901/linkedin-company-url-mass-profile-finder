@@ -1,0 +1,14 @@
+[
+  {
+    "companyName": "Tesla",
+    "searchQuery": "linkedin company Tesla",
+    "linkedinUrl": "https://www.linkedin.com/company/tesla-motors/",
+    "infoStatus": "LinkedIn Found"
+  },
+  {
+    "companyName": "Google",
+    "searchQuery": "linkedin company Google",
+    "linkedinUrl": "https://www.linkedin.com/company/google/",
+    "infoStatus": "LinkedIn Found"
+  }
+]
