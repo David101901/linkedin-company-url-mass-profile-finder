@@ -1,0 +1,8 @@
+{
+  "search_engine": "bing",
+  "request_timeout": 10,
+  "user_agent": "LinkedInCompanyFinderBot/1.0",
+  "output_formats": ["json", "csv", "excel", "xml", "rss"],
+  "input_file": "data/company_list.sample.txt",
+  "output_dir": "data"
+}
