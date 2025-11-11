@@ -1,0 +1,6 @@
+# Sample company list for LinkedIn Company URL - Mass Profile Finder
+Tesla
+Google
+Microsoft
+OpenAI
+Netflix
